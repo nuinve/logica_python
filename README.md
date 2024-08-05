@@ -1,2 +1,2 @@
-# logica_pyhton
-prática de logica com pyhton
+# logica_python
+prática de logica com python
